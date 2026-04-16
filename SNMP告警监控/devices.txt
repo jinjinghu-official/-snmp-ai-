@@ -1,0 +1,5 @@
+# SNMP Trap 监控系统 - 设备列表
+# 格式: IP地址  telnet密码  设备名称  SNMP团体字
+# 随时可编辑，修改后立即生效，无需重启
+#
+192.168.137.2	huawei	Router-Main	public
